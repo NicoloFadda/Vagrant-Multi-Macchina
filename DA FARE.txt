@@ -1,0 +1,3 @@
+quando accedo a localhost:8080 esce la pagina default apache
+fare in modo che al vagrant up devono crearsi le pagine index e adminer
+fare in modo che viene creato il db e la tabella

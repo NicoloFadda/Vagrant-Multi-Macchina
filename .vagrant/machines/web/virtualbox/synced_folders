@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"create":true,"guestpath":"/var/www/html","hostpath":"C:/Users/nicolo.fadda/Downloads/comptioVagrant/comptioVagrant/website","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/nicolo.fadda/Downloads/comptioVagrant/comptioVagrant","disabled":false,"__vagrantfile":true}}}
